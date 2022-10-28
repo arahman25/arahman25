@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Ali Abdelrahman
 - 👀 I’m interested in coding and problem solving.
 - 🌱 I’m currently learning Data Analytics, AI and Web Development.
-- 💞️ I’m looking to collaborate on AI mega projects.
+- 💞️ I’m looking to collaborate on useful projects.
 - 📫 How to reach me, by mail ahmed073@msn.com or +201066688497
 
 <!---
